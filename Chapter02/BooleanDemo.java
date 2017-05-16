@@ -7,6 +7,7 @@ public class BooleanDemo
 		int x = 10;
 		boolean y = (x > 15);
 		System.out.println("y is " + y);
+		System.out.println("y is " + y);
 //		y = x;		//does not compile!
 	}
 }
