@@ -25,4 +25,3 @@ public class ArithmeticDemo
 		System.out.println("Ternary: " + (x==5 ? "yes" : "no"));
 	}
 }
-
