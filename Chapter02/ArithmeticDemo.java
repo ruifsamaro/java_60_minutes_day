@@ -23,5 +23,6 @@ public class ArithmeticDemo
 		System.out.println("d = " + d);
 
 		System.out.println("Ternary: " + (x==5 ? "yes" : "no"));
+		System.out.println("Ternary: " + (x==5 ? "yes" : "no"));
 	}
 }
